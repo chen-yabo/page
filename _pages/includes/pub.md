@@ -1,10 +1,10 @@
 
 # 📝 Publications 
 
-<sup>*</sup> Equal contribution. <sup>&dagger</sup> Project Leader.
+<sup>*</sup> Equal contribution. <sup>†</sup> Project Leader.
 
-- `arXiv 2026` [TelePhysics: Physics-Grounded Multi-Object Scene Generation from a Single Image with Real-Time Interaction](https://arxiv.org/abs/2605.20290), X Zhang, **Yabo Chen**, Y Fang, W Qu, H Huang, C Zhang, F Xu, X Li
-- `arXiv 2026` [TeleWorld: Towards Dynamic Multimodal Synthesis with a 4D World Model](https://arxiv.org/abs/2601.00051), **Yabo Chen**, Y Liang, J Wang, T Chen, J Cheng, Z Gu, Y Huang, Z Jiang, W Li, et al. <strong>(1 citation)</strong>
+- `arXiv 2026` [TelePhysics: Physics-Grounded Multi-Object Scene Generation from a Single Image with Real-Time Interaction](https://arxiv.org/abs/2605.20290), X Zhang<sup>*</sup>, **Yabo Chen**<sup>*</sup>, Y Fang, W Qu, H Huang, C Zhang, F Xu, X Li
+- `arXiv 2026` [TeleWorld: Towards Dynamic Multimodal Synthesis with a 4D World Model](https://arxiv.org/abs/2601.00051), **Yabo Chen**, Y Liang, Z Gu, J Wang, T Chen, J Cheng, Z Gu, Y Huang, Z Jiang, W Li, et al. <strong>(1 citation)</strong>
 - `arXiv 2025` [Denoising Vision Transformer Autoencoder with Spectral Self-Regularization](https://arxiv.org/abs/2511.12633), X Xiang, X Tian, G Zhang, **Yabo Chen**, S Zhang, X Wang, X Tao, Q Fan <strong>(1 citation)</strong>
 - `NeurIPS 2025` [Diffusion-Driven Progressive Target Manipulation for Source-Free Domain Adaptation](https://arxiv.org/abs/2510.25279), Y Huang<sup>*</sup>, **Yabo Chen**<sup>*</sup>, J Zhou, W Dai, X Zhang, J Zou, H Xiong, Q Tian
 - `arXiv 2025` [Macro-from-Micro Planning for High-Quality and Parallelized Autoregressive Long Video Generation](https://arxiv.org/abs/2508.03334), X Xiang<sup>*</sup>, **Yabo Chen**<sup>*</sup>, G Zhang, Z Wang, Z Gao, Q Xiang, G Shang, J Liu, H Huang, Y Gao, C Zhang, Q Fan, X Li <strong>(17 citations)</strong>
