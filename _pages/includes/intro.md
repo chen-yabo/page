@@ -1,4 +1,4 @@
-I am now working at the [Institute of Artificial Intelligence, China Telecom (TeleAI)](https://www.teleai.com.cn/) <img src='./images/logoteleai_1.pdf' style="width: 4em;">, working on generative video models, 3D/4D generation, and world models.
+I am now working at the [Institute of Artificial Intelligence, China Telecom (TeleAI)](https://www.teleai.com.cn/) <img src='./images/teleai_logo.png' style="width: 4em;">, working on generative video models, 3D/4D generation, and world models.
 
 I received my Ph.D. degree from the School of Computer Science, [Shanghai Jiao Tong University](https://www.cs.sjtu.edu.cn/), advised by Prof. [Hongkai Xiong](https://scholar.google.com/citations?user=bB16iN4AAAAJ&hl=zh-TW) and Prof. [Wenrui Dai](https://scholar.google.com/citations?user=Xg8MhyAAAAAJ&hl=zh-TW). Before that, I received my bachelor’s degree in Computer Science and Technology from [Northwestern Polytechnical University](https://jsj.nwpu.edu.cn/).
 
