@@ -1,7 +1,7 @@
 
 # 📝 Publications 
 
-<sup>*</sup> Equal contribution.
+<sup>*</sup> Equal contribution. <sup>&dagger</sup> Project Leader.
 
 - `arXiv 2026` [TelePhysics: Physics-Grounded Multi-Object Scene Generation from a Single Image with Real-Time Interaction](https://arxiv.org/abs/2605.20290), X Zhang, **Yabo Chen**, Y Fang, W Qu, H Huang, C Zhang, F Xu, X Li
 - `arXiv 2026` [TeleWorld: Towards Dynamic Multimodal Synthesis with a 4D World Model](https://arxiv.org/abs/2601.00051), **Yabo Chen**, Y Liang, J Wang, T Chen, J Cheng, Z Gu, Y Huang, Z Jiang, W Li, et al. <strong>(1 citation)</strong>
