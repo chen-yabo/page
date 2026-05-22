@@ -3,7 +3,7 @@
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div>
-<video width="100%" autoplay muted loop playsinline>
+<video width="100%" autoplay muted loop playsinline controls>
   <source src="./videos/telephysics.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
