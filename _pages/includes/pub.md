@@ -1,29 +1,26 @@
 
 # 📝 Publications 
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">arXiv 2026</div>
-      <video width="100%" autoplay muted loop playsinline controls>
-        <source src="page/videos/telephysics.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-    </div>
-  </div>
 
-  <div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div>
+<video width="100%" autoplay muted loop playsinline controls>
+  <source src="page/videos/telephysics.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+</div></div>
+<div class='paper-box-text' markdown="1">
 
 [TelePhysics: Physics-Grounded Multi-Object Scene Generation from a Single Image with Real-Time Interaction](https://arxiv.org/abs/2605.20290) \\
 Xin Zhang<sup>&#42;</sup>, <strong>Yabo Chen<sup>&#42;</sup></strong>, Yijie Fang, Wanying Qu, Haibin Huang, Chi Zhang, Feng Xu, Xuelong Li
 
-[**Project**](https://telephysics.github.io/) 
-[**Code**](https://github.com/xinzhang007/TelePhysics) 
-[**arXiv**](https://arxiv.org/abs/2605.20290)
+[**Project**](https://telephysics.github.io/) / [**Code**](https://github.com/xinzhang007/TelePhysics) / [**arXiv**](https://arxiv.org/abs/2605.20290)
+
 
 - TelePhysics is a unified, training-free framework designed to facilitate holistic 3D scene generation and physically grounded video synthesis from a single input image. The video showcases interactions among multiple objects across diverse scenes.
+- It reconstructs the whole scene in a unified spatial coordinate system, resolving object interpenetration and enabling coherent multi-object interactions.
+- By decoupling physical simulation from rendering, TelePhysics supports real-time physical interaction preview while preserving photorealistic visual quality.
 
-  </div>
+</div>
 </div>
 
 
