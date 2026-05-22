@@ -17,8 +17,6 @@ Xin Zhang<sup>&#42;</sup>, <strong>Yabo Chen<sup>&#42;</sup></strong>, Yijie Fan
 
 
 - TelePhysics is a unified, training-free framework designed to facilitate holistic 3D scene generation and physically grounded video synthesis from a single input image. The video showcases interactions among multiple objects across diverse scenes.
-- It reconstructs the whole scene in a unified spatial coordinate system, resolving object interpenetration and enabling coherent multi-object interactions.
-- By decoupling physical simulation from rendering, TelePhysics supports real-time physical interaction preview while preserving photorealistic visual quality.
 
 </div>
 </div>
