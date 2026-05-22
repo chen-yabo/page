@@ -21,6 +21,25 @@ Xin Zhang<sup>&#42;</sup>, <strong>Yabo Chen<sup>&#42;</sup></strong>, Yijie Fan
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div>
+<video width="100%" autoplay muted loop playsinline controls>
+  <source src="./videos/teleworld.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+</div></div>
+<div class='paper-box-text' markdown="1">
+
+[TeleWorld: Towards Dynamic Multimodal Synthesis with a 4D World Model](https://arxiv.org/abs/2601.00051) \\
+<strong>Yabo Chen</strong>, Y Liang, Z Gu, J Wang, T Chen, J Cheng, Z Gu, Y Huang, Z Jiang, W Li, et al. <strong>(1 citation)</strong>
+
+[**arXiv**](https://arxiv.org/abs/2601.00051)
+
+
+- TeleWorld explores dynamic multimodal synthesis with a 4D world model, aiming to generate temporally consistent and interactive world representations with up to 18 FPS on a 14B video model.
+
+</div>
+</div>
+
 
 <sup>&#42;</sup> Equal contribution. <sup>&dagger;</sup> Project Leader.
 
