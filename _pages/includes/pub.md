@@ -30,7 +30,7 @@ Xin Zhang<sup>&#42;</sup>, <strong>Yabo Chen<sup>&#42;</sup></strong>, Yijie Fan
 <div class='paper-box-text' markdown="1">
 
 [SymphoMotion: Joint Control of Camera Motion and Object Dynamics for Coherent Video Generation](https://arxiv.org/abs/2604.03723) \\
-Guiyu Zhang, <strong>Yabo Chen</strong>, Xunzhi Xiang, Junchao Huang, Zhongyu Wang, Li Jiang
+Guiyu Zhang<sup>&#42;</sup>, <strong>Yabo Chen<sup>&#42;</sup></strong>, Xunzhi Xiang, Junchao Huang, Zhongyu Wang, Li Jiang
 
 [**Project**](https://grenoble-zhang.github.io/SymphoMotion/) / [**Code**](https://github.com/grenoble-zhang/SymphoMotion) / [**arXiv**](https://arxiv.org/abs/2604.03723)
 
