@@ -42,6 +42,25 @@ Guiyu Zhang, <strong>Yabo Chen</strong>, Xunzhi Xiang, Junchao Huang, Zhongyu Wa
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div>
 <video width="100%" autoplay muted loop playsinline controls>
+  <source src="./videos/directingtheworld.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+</div></div>
+<div class='paper-box-text' markdown="1">
+
+[Directing the World: Fast Autoregressive Video Generation with Compositional Human-Camera Control](https://arxiv.org/abs/2606.27964) \\
+Haoyuan Wang<sup>&#42;</sup>, <strong>Yabo Chen<sup>&#42;</sup></strong>, Haibin Huang, Chi Zhang, Xuelong Li
+
+[**Project**](https://whydahuzi.github.io/Directing-the-World.github.io/) / [**arXiv**](https://arxiv.org/abs/2606.27964)
+
+
+- Directing the World is a fast autoregressive framework for controllable world-model video generation with compositional human-motion and camera-trajectory control. The video showcases stable long-horizon generation with precise human-motion control and coherent camera-controlled world dynamics.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div>
+<video width="100%" autoplay muted loop playsinline controls>
   <source src="./videos/teleworld_compress.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
