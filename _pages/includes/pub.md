@@ -21,6 +21,25 @@ Xin Zhang<sup>&#42;</sup>, <strong>Yabo Chen<sup>&#42;</sup></strong>, Yijie Fan
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div>
+<video width="100%" autoplay muted loop playsinline controls>
+  <source src="./videos/SymphoMotion.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+</div></div>
+<div class='paper-box-text' markdown="1">
+
+[SymphoMotion: Joint Control of Camera Motion and Object Dynamics for Coherent Video Generation](https://arxiv.org/abs/2604.03723) \\
+Guiyu Zhang, <strong>Yabo Chen</strong>, Xunzhi Xiang, Junchao Huang, Zhongyu Wang, Li Jiang
+
+[**Project**](https://grenoble-zhang.github.io/SymphoMotion/) / [**Code**](https://github.com/grenoble-zhang/SymphoMotion) / [**arXiv**](https://arxiv.org/abs/2604.03723)
+
+
+- SymphoMotion is a unified motion-control framework that jointly governs camera trajectories and object dynamics within a single model. The video showcases coherent video generation with joint control of camera motion and object dynamics across diverse indoor and outdoor scenes.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div>
 <video width="100%" autoplay muted loop playsinline controls>
   <source src="./videos/teleworld_compress.mp4" type="video/mp4">
