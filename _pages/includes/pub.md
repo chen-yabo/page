@@ -23,7 +23,7 @@ Xin Zhang<sup>&#42;</sup>, <strong>Yabo Chen<sup>&#42;</sup></strong>, Yijie Fan
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div>
 <video width="100%" autoplay muted loop playsinline controls>
-  <source src="./videos/teleworld.mp4" type="video/mp4">
+  <source src="./videos/teleworld_compress.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 </div></div>
