@@ -42,9 +42,9 @@ Xin Zhang<sup>&#42;</sup>, <strong>Yabo Chen<sup>&#42;</sup></strong>, Yijie Fan
 
 
 <sup>&#42;</sup> Equal contribution. <sup>&dagger;</sup> Project Leader.
-- `arXiv 2026` [Directing the World: Fast Autoregressive Video Generation with Compositional Human-Camera Control](https://arxiv.org/abs/2606.27964), H Wang<sup>\*</sup>, Yabo Chen<sup>\*</sup>, H Huang, C Zhang, X Li
-- `arXiv 2026` [VideoWeave: Unlocking Geometric Consistency in Video Generation via Joint Geometry-Video Modeling](https://arxiv.org/abs/2606.14162), X Xiang<sup>\*</sup>, Z Duan<sup>\*</sup>, Yabo Chen<sup>\*</sup>, Z Wei, G Zhang, Z Gu, Z Gao, H Huang, C Zhang, Q Fan, X Li
-- `arXiv 2026` [Full-4D: Generating Full-Scope 4D Scenes from a Single-View Video](https://arxiv.org/abs/2605.25500), T Chen, K Hao, Yabo Chen<sup>†</sup>, Z Cheng, R Xie, L Song, H Huang, C Zhang, X Li
+- `arXiv 2026` [Directing the World: Fast Autoregressive Video Generation with Compositional Human-Camera Control](https://arxiv.org/abs/2606.27964), H Wang<sup>\*</sup>, <strong>Yabo Chen<sup>\*</sup>, H Huang, C Zhang, X Li
+- `arXiv 2026` [VideoWeave: Unlocking Geometric Consistency in Video Generation via Joint Geometry-Video Modeling](https://arxiv.org/abs/2606.14162), X Xiang<sup>\*</sup>, Z Duan<sup>\*</sup>, <strong>Yabo Chen<sup>\*</sup>, Z Wei, G Zhang, Z Gu, Z Gao, H Huang, C Zhang, Q Fan, X Li
+- `arXiv 2026` [Full-4D: Generating Full-Scope 4D Scenes from a Single-View Video](https://arxiv.org/abs/2605.25500), T Chen, K Hao, <strong>Yabo Chen<sup>†</sup>, Z Cheng, R Xie, L Song, H Huang, C Zhang, X Li
 - `ACMMM 2026` [TelePhysics: Physics-Grounded Multi-Object Scene Generation from a Single Image with Real-Time Interaction](https://arxiv.org/abs/2605.20290), X Zhang<sup>&#42;</sup>, <strong>Yabo Chen<sup>&#42;</sup></strong>, Y Fang, W Qu, H Huang, C Zhang, F Xu, X Li
 - `CVPR 2026` [SymphoMotion: Joint Control of Camera Motion and Object Dynamics for Coherent Video Generation](https://arxiv.org/abs/2604.03723), G Zhang<sup>&#42;</sup>, <strong>Yabo Chen<sup>&#42;</sup></strong>, X Xiang, J Huang, Z Wang, L Jiang
 - `arXiv 2026` [TeleWorld: Towards Dynamic Multimodal Synthesis with a 4D World Model](https://arxiv.org/abs/2601.00051), <strong>Yabo Chen</strong>, Y Liang, Z Gu, J Wang, T Chen, J Cheng, Z Gu, Y Huang, Z Jiang, W Li, et al. <strong>(1 citation)</strong>
