@@ -1,4 +1,5 @@
 # 🔥 News
+- *2026.07*: 🎉 One paper is conditional accepted by SIGGRAPH Asia 2026.
 - *2026.07*: 🎉 One paper is accepted by ACMMM 2026.
 - *2026.02*: 🎉 One paper is accepted by CVPR 2026.
 - *2025.12*: [TeleWorld](https://arxiv.org/pdf/2601.00051) achieves rank No.1 on [WorldScores](https://github.com/haoyi-duan/WorldScore).
