@@ -80,6 +80,8 @@ Haoyuan Wang<sup>&#42;</sup>, <strong>Yabo Chen<sup>&#42;</sup></strong>, Haibin
 
 
 <sup>&#42;</sup> Equal contribution. <sup>&dagger;</sup> Project Leader.
+- `arXiv 2026` [TourPhysics: Bringing Physics to World Models for Exploration and Manipulation from a Single Image](https://arxiv.org/abs/2609.04911), X Zhang<sup>\*</sup>, Yabo Chen<sup>\*</sup>, Z Duan, H Huang, C Zhang, F Xu, X Li
+- `arXiv 2026` [CineWeaver: Training-Free Reference-Controllable Multi-Shot Long Video Generation for Cinematic Storytelling](https://arxiv.org/pdf/2607.26529), Y Huang<sup>\*</sup>, Yabo Chen<sup>\*</sup>, W Dai, Z, H Huang, C Zhang, J Zou, H Xiong, X Li
 - `arXiv 2026` [Directing the World: Fast Autoregressive Video Generation with Compositional Human-Camera Control](https://arxiv.org/abs/2606.27964), H Wang<sup>\*</sup>, <strong>Yabo Chen<sup>\*</sup>, H Huang, C Zhang, X Li
 - `arXiv 2026` [VideoWeave: Unlocking Geometric Consistency in Video Generation via Joint Geometry-Video Modeling](https://arxiv.org/abs/2606.14162), X Xiang<sup>\*</sup>, Z Duan<sup>\*</sup>, <strong>Yabo Chen<sup>\*</sup>, Z Wei, G Zhang, Z Gu, Z Gao, H Huang, C Zhang, Q Fan, X Li
 - `arXiv 2026` [Full-4D: Generating Full-Scope 4D Scenes from a Single-View Video](https://arxiv.org/abs/2605.25500), T Chen, K Hao, <strong>Yabo Chen<sup>†</sup>, Z Cheng, R Xie, L Song, H Huang, C Zhang, X Li
