@@ -80,6 +80,8 @@ Haoyuan Wang<sup>&#42;</sup>, <strong>Yabo Chen<sup>&#42;</sup></strong>, Haibin
 
 
 <sup>&#42;</sup> Equal contribution. <sup>&dagger;</sup> Project Leader.
+- `arXiv 2026` [Search-to-World: Evaluation of 3D World Delivery from User Request through Web Search](https://arxiv.org/abs/2609.07605), Z Gu<sup>\*</sup>, <strong>Yabo Chen<sup>\*</sup></strong>, X Xiang, Y He, H Huang, C Zhang, Y Wang, X Li
+- `Siggraph Asia 2026` [Uncertainty DMD: Restoring Diversity in Few-Step Autoregressive Video Distillation](https://arxiv.org/abs/2609.11265), Z Duan<sup>\*</sup>, X Xiang<sup>\*</sup>, <strong>Yabo Chen<sup>\*</sup></strong>, X Zhang, C Liu, H Huang, C Zhang, Q Fan, X Li
 - `arXiv 2026` [TourPhysics: Bringing Physics to World Models for Exploration and Manipulation from a Single Image](https://arxiv.org/abs/2609.04911), X Zhang<sup>\*</sup>, <strong>Yabo Chen<sup>\*</sup></strong>, Z Duan, H Huang, C Zhang, F Xu, X Li
 - `arXiv 2026` [CineWeaver: Training-Free Reference-Controllable Multi-Shot Long Video Generation for Cinematic Storytelling](https://arxiv.org/pdf/2607.26529), Y Huang<sup>\*</sup>, <strong>Yabo Chen<sup>\*</sup></strong>, W Dai, Z, H Huang, C Zhang, J Zou, H Xiong, X Li
 - `arXiv 2026` [Directing the World: Fast Autoregressive Video Generation with Compositional Human-Camera Control](https://arxiv.org/abs/2606.27964), H Wang<sup>\*</sup>, <strong>Yabo Chen<sup>\*</sup></strong>, H Huang, C Zhang, X Li
