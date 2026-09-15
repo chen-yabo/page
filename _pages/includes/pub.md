@@ -1,6 +1,42 @@
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div>
+<video width="100%" autoplay muted loop playsinline controls>
+  <source src="./videos/tourphysics.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+</div></div>
+<div class='paper-box-text' markdown="1">
+
+[TourPhysics: Bringing Physics to World Models for Exploration and Manipulation from a Single Image](https://arxiv.org/abs/2609.04911) \\
+X Zhang<sup>\*</sup>, <strong>Yabo Chen<sup>\*</sup></strong>, Z Duan, H Huang, C Zhang, F Xu, X Li
+
+[**arXiv**](https://arxiv.org/abs/2609.04911)
+
+- TourPhysic is an online framework initialized from a single image and a declarative physical configuration. TourPhysics combines deterministic simulation with video generation while assigning separate roles to simulator state, geometric evidence, generator controls, and appearance memory. 
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Siggraph Asia 2026</div>
+<video width="100%" autoplay muted loop playsinline controls>
+  <source src="./videos/uncertainty_dmd_compress.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+</div></div>
+<div class='paper-box-text' markdown="1">
+
+[Uncertainty DMD: Restoring Diversity in Few-Step Autoregressive Video Distillation](https://arxiv.org/abs/2609.11265) \\
+Z Duan<sup>\*</sup>, X Xiang<sup>\*</sup>, <strong>Yabo Chen<sup>\*</sup></strong>, X Zhang, C Liu, H Huang, C Zhang, Q Fan, X Li
+
+ [**arXiv**](https://arxiv.org/abs/2609.11265)
+
+- Uncertainty DMD is a simple uncertainty-injection framework that restores stochasticity at two key stages of AR generation: a timestep perturbation for the first chunk to increase first-chunk diversity, and a stochastic cache-writing mechanism for later chunks to preserve uncertainty in autoregressive conditioning. 
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Siggraph Asia 2026</div>
 <video width="100%" autoplay muted loop playsinline controls>
   <source src="./videos/uncertainty_dmd_compress.mp4" type="video/mp4">
@@ -86,7 +122,7 @@ Haoyuan Wang<sup>&#42;</sup>, <strong>Yabo Chen<sup>&#42;</sup></strong>, Haibin
 <div class='paper-box-text' markdown="1">
 
 [TeleWorld: Towards Dynamic Multimodal Synthesis with a 4D World Model](https://arxiv.org/abs/2601.00051) \\
-<strong>Yabo Chen</strong>, Y Liang, Z Gu, J Wang, T Chen, J Cheng, Z Gu, Y Huang, Z Jiang, W Li, et al. <strong>(1 citation)</strong>
+<strong>Yabo Chen</strong>, Y Liang, Z Gu, J Wang, T Chen, J Cheng, Z Gu, Y Huang, Z Jiang, W Li, et al. 
 
 [**arXiv**](https://arxiv.org/abs/2601.00051)
 
