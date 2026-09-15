@@ -2,6 +2,19 @@
 # 📝 Publications 
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Siggraph Asia 2026</div>
+<video width="100%" autoplay muted loop playsinline controls>
+  <source src="./videos/uncertainty_dmd_compress.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+</div></div>
+<div class='paper-box-text' markdown="1">
+
+[Uncertainty DMD: Restoring Diversity in Few-Step Autoregressive Video Distillation](https://arxiv.org/abs/2609.11265) \\
+Z Duan<sup>\*</sup>, X Xiang<sup>\*</sup>, <strong>Yabo Chen<sup>\*</sup></strong>, X Zhang, C Liu, H Huang, C Zhang, Q Fan, X Li
+
+ [**arXiv**](https://arxiv.org/abs/2609.11265)
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2026</div>
 <video width="100%" autoplay muted loop playsinline controls>
   <source src="./videos/telephysics.mp4" type="video/mp4">
