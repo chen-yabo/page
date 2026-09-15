@@ -11,6 +11,7 @@
 
 [Uncertainty DMD: Restoring Diversity in Few-Step Autoregressive Video Distillation](https://arxiv.org/abs/2609.11265) \\
 Z Duan<sup>\*</sup>, X Xiang<sup>\*</sup>, <strong>Yabo Chen<sup>\*</sup></strong>, X Zhang, C Liu, H Huang, C Zhang, Q Fan, X Li
+
  [**arXiv**](https://arxiv.org/abs/2609.11265)
 
 - Uncertainty DMD is a simple uncertainty-injection framework that restores stochasticity at two key stages of AR generation: a timestep perturbation for the first chunk to increase first-chunk diversity, and a stochastic cache-writing mechanism for later chunks to preserve uncertainty in autoregressive conditioning. 
